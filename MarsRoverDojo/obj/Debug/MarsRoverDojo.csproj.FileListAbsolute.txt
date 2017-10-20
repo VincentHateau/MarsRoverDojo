@@ -1,6 +1,0 @@
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\bin\Debug\MarsRoverDojo.dll
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\bin\Debug\MarsRoverDojo.pdb
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\obj\Debug\MarsRoverDojo.csprojResolveAssemblyReference.cache
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\obj\Debug\MarsRoverDojo.csproj.CoreCompileInputs.cache
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\obj\Debug\MarsRoverDojo.dll
-C:\Users\OCTO-VIHA\RiderProjects\MarsRoverDojo\MarsRoverDojo\obj\Debug\MarsRoverDojo.pdb
