@@ -4,7 +4,7 @@ using Xunit;
 
 namespace MarsRoverTests
 {
-    public class Tests
+    public class MarsRoverTest
     {
         [Theory]
         [InlineData(1 , 2, Direction.North, 1, 3)]
